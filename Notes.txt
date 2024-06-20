@@ -1,0 +1,27 @@
+Routing
+
+Routing Means Matching Different URLs to Different Views in the USER Interface
+
+for example : 
+showing Home Page when visits our application 
+- www.globepin.com/
+
+showing login page  when user visits - www.globepin.com/login
+
+This enables users to navigate between different applications screens, using the browser URLs
+
+Keeps the UI in Sync with the current browser URLs
+
+REACT Router - third party application
+
+
+ROUTING 
+
+ROUTES
+
+BrowserRouter
+Routes
+Route
+
+Link 
+NavLink  - if we use this we can active tag for current active pag

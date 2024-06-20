@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+
+.logo {
+  height: 5.2rem;
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.2rem;
+}
