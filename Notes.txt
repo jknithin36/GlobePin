@@ -25,3 +25,45 @@ Route
 
 Link 
 NavLink  - if we use this we can active tag for current active pag
+
+
+
+Nested Routes - 
+
+we need nested routes when part of the UI to be controlled by a part of a URLs
+
+
+
+
+
+Outlet - simlar to children to prop 
+
+index route
+
+function rules
+
+eg {} - shoud add retirn in arrow
+
+evry function should return something ******
+
+remove dummy values useing reduce and map or find methods oractuce
+
+
+storing stae in the URLs - params and queryString
+
+dynamic routes with url parameters 
+-- dont add / because it will take from main host url
+useParams
+useSearchParams
+
+create Route 
+
+QueryString to URL 
+
+programatic Navigation 
+
+useNavigation - imperative way
+
+Link and NavLink is Declarative way
+
+Navigate component
